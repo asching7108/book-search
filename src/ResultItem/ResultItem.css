@@ -1,0 +1,35 @@
+.result__item {
+	display: flex;
+	margin: 10px auto;
+	width: 80vw;
+}
+
+.item__left,
+.item__right {
+	margin: 5px 10px;
+}
+
+.item__left img {
+	width: 100px;
+	height: auto;
+	border: 1px solid #CCCCCC;
+}
+
+.img__span {
+	display: flex;
+	align-items: center;
+	Width: 100px;
+	height: 140px;
+	border: 1px solid #CCCCCC;
+	color: #AAAAAA;
+	text-align: center
+}
+
+.item__right {
+	width: 50vw;
+}
+
+.item__right h4 {
+	font-style: italic;
+	font-weight: normal;
+}

@@ -1,0 +1,10 @@
+.filter__bar {
+	display: flex;
+	justify-content: center;
+	background-color: #EEEEEE;
+	padding: 5px;
+}
+
+.filter {
+	margin: 0 15px;
+}

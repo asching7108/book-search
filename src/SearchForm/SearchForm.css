@@ -1,0 +1,6 @@
+.search__bar {
+	display: flex;
+	justify-content: center;
+	background-color: #AAAAAA;
+	padding: 5px;
+}
